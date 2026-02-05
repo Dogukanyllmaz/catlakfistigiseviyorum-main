@@ -1,17 +1,20 @@
+import photo1 from "../assets/photos/1.jpg";
 
 interface Photo {
   id: number;
+  src: string;
   caption?: string;
 }
 
 const photos: Photo[] = [
-  { id: 1, caption: "Birlikte güldüğümüz anlar" },
-  { id: 2, caption: "O muhteşem gün batımı" },
-  { id: 3, caption: "Sadece seninle güzel" },
-  { id: 4, caption: "Unutulmaz anılarımız" },
-  { id: 5, caption: "Sonsuza dek" },
-  { id: 6, caption: "Sen ve ben" },
+  { id: 1, src: photo1, caption: "Birlikte güldüğümüz anlar" },
+  { id: 2, src: photo1, caption: "O muhteşem gün batımı" },
+  { id: 3, src: photo1, caption: "Sadece seninle güzel" },
+  { id: 4, src: photo1, caption: "Unutulmaz anılarımız" },
+  { id: 5, src: photo1, caption: "Sonsuza dek" },
+  { id: 6, src: photo1, caption: "Sen ve ben" },
 ];
+
 
 const PhotoGallery = () => {
   return (
@@ -36,23 +39,12 @@ const PhotoGallery = () => {
                 <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-background/80" />
                 
                 {/* Placeholder content */}
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center">
-                    <svg
-                      className="w-8 h-8 text-primary/40"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={1.5}
-                        d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
-                      />
-                    </svg>
-                  </div>
-                </div>
+                <img
+                  src={photo.src}
+                  alt={photo.caption ?? "Anı"}
+                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                />
+
 
                 {/* Caption */}
                 {photo.caption && (

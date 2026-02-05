@@ -55,6 +55,23 @@ Geçmişimize şükrediyorum, geleceğimize heyecanla bakıyorum. Çünkü ikisi
 
 Sonsuza dek seninleyim.`
   },
+  {
+    id: 4,
+    title: "Birlikte geçirdiğimiz zamanlara dair",
+    content: `Bir tanem,
+
+Hatırlıyor musun, ilk buluşmamızı? O gün ne kadar heyecanlıydım, ellerim titriyordu ama seni görünce her şey duruldu. Sanki yıllardır tanışıyormuşuz gibi rahat hissettim yanında.
+
+O günden bu yana geçen her an, bir hazine gibi kalbimde saklı. Beraber güldüğümüz, ağladığımız, hayal kurduğumuz tüm anlar...
+
+Seninle izlediğimiz filmler, birlikte yediğimiz yemekler, saatlerce süren telefon konuşmalarımız... Her biri benim için paha biçilmez.
+
+Ve en güzeli, daha yaşayacağımız nice anlar var. Seninle kuracağımız hayaller, gerçekleştireceğimiz planlar, birlikte büyüyeceğimiz yıllar...
+
+Geçmişimize şükrediyorum, geleceğimize heyecanla bakıyorum. Çünkü ikisi de seninle.
+
+Sonsuza dek seninleyim.`
+  },
 ];
 
 const LettersSection = () => {
