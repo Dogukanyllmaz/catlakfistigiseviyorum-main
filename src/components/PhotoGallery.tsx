@@ -41,7 +41,7 @@ const photos: Photo[] = [
   { id: 15, src: photo15, caption: "Sana hep sarılmak istiyorum. Beni hep böyle bekle bebi" },
   { id: 16, src: photo16, caption: "Yakalayabildiğim tek ve en güzel gün batımı" },
   { id: 17, src: photo17, caption: "Bolca öpücük" },
-  { id: 18, src: photo18, caption: "Gelmiş geçmiş en havalı fotoğraf" },
+  { id: 8, src: photo18, caption: "Gelmiş geçmiş en havalı fotoğraf" },
 ];
 
 
