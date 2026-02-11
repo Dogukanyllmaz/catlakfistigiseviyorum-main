@@ -10,67 +10,66 @@ interface Letter {
 const letters: Letter[] = [
   {
     id: 1,
-    title: "Sana söylemek istediklerim",
-    content: `Sevgilim,
+    title: "Artık mektuplarım bir tık uzağında...",
+    content: `Bebi,
 
-Sana söylemek istediğim o kadar çok şey var ki, kelimelerin yetersiz kaldığı anlar oluyor. Ama yine de denemek istiyorum, çünkü sen her kelimeyi hak ediyorsun.
+Sana söylemek istediğim o kadar çok şey var ki, kelimelerin yetersiz kaldığı anlar oluyor. Ama yine de bir yerden başlamam lazım artık. İlk olarak duygularımızı paylaşmaya, konuşmaya ve duygusal iletişime ne kadar önem verdiğini görüyorum. 
+İhtiyaçlarını ve isteklerini kalpten anlıyorum. Her şeyden önce bunları karşılamak istiyorum.
 
-Sen hayatıma girdiğinden beri her şey değişti. Sabahları uyanmak için bir nedenim var artık. Gözlerini gördüğümde dünyanın en şanslı insanı olduğumu hissediyorum.
+Çok başarılı olduğumu iddia etmeyeceğim ama bu sorunun önüne geçiyorum artık. Yanında da olsam uzakta da olsam beni asla unutmayacağın, ne zaman kelimelere ihtiyacın olursa 
+açıp okuyabileceğin, duygularımı görebileceğin ve seninle rahat rahat paylaşabileceğim bir alan yaratmak istedim. Uzaklarda dahi olsak artık metuplarımız  elimizin altında olacak.
 
-Bazen seni izliyorum, hiçbir şey yapmadan, sadece var olduğun için mutlu oluyorum. Gülüşün, bakışların, sesin... Her şeyin beni büyülüyor.
+Böylelikle istediğin an sen de erişip okuyabileceksin. Kalem ve kağıt bana hala garip hissettiriyor. Bu şekilde sana bir adım daha atmış olacağım. Böylelikle istediğim an duygularımı yazabileceğim.
 
-Seninle geçirdiğim her an, hayatımın en değerli hazineleri. Ve biliyorum ki, daha nice güzel anlar bizi bekliyor.
-
-Seni seviyorum, bugün, yarın ve sonsuza dek.`
+Umarım bu fikrimi beğenirsin bebim. Seni seviyorum...`
   },
   {
     id: 2,
-    title: "İçimden geçenler",
-    content: `Canım,
+    title: "Sensiz vallahi sarmıyor",
+    content: `Güzelim,
+Seni düşünmekten kendimi alamıyorum. Güne her başladığımda aklıma düşen ilk şey sensin. Gecen güzel geçti mi? İyi uyudun mu? Dinlendin mi? 
+Gün devam ederken her zaman sen varsın. Yemeğini yemeni istiyorum, suyunu içmeni istiyorum, yeteri kadar dinlenebilmeni ve nefes alailmeni istiyorum.
 
-Bazen geceleri uyuyamıyorum, çünkü seni düşünmekten kendimi alamıyorum. Her anımızı tek tek hatırlıyorum ve her birinde yeniden gülümsüyorum.
+Bazenleri abarttığımın farkındayım, tepende dikilmiş şunu yap bunu yap diye başının etini yiyorum. Belki sıkılıyorsundur ama gerçekten umrumda değil. Gününün
+güzel geçmesi her gün tek dileğim. Seni düşünmeyi ve özlemeyi çok seviyorum. Uzak kaldığım her an hem huysuz bir lavuk kesiliyorum başına hem de sana ihtiyacı olan minik bir çocuk.ç 
 
-Senin için neler hissettiğimi anlatmak zor. Bu duygu, kelimelerden çok daha büyük. Sanki kalbim senin için özel bir dil geliştirmiş de, sadece sen anlayabiliyorsun.
-
-Zorlandığım anlarda senin varlığın bana güç veriyor. "Sen varsın" diye düşünmek, her şeyi üstesinden gelebileceğime inandırıyor beni.
-
-Sen benim güvenli limanım, en derin sırlarımı paylaşabildiğim tek kişi, en gerçek halimle olabildiğim tek yer.
-
-Seninle olmak, hayatımın en büyük hediyesi.`
+Kısaca sensiz yapamıyorum. Sensiz ilerleyemiyorum. Yol alamıyorum. Eve gelip sana sarılacağım anı iple çekiyorum. Sana dokunacağım birlikte oturup boş yapacağımız ve kahve içeceğimiz o anları deliler gibi iple çekiyorum. 
+İşini dinlemeyi seviyorum, sesini duymayı seviyorum. Söylenmeni günler boyu dinleyebilirim. Deliler gibi ilgi isteyişini sonsuza dek karşılayabilirim. Minik oltalarını seviyorum. 
+Yanında safı oynmayı seviyorum. Artık mektuplarımı bol bol yazabileceğim için uzatmayacağım ama şunu söyleyeyim ben seni ve seninle ilgili olan her şeyi çok seviyorum...`
   },
   {
     id: 3,
-    title: "Birlikte geçirdiğimiz zamanlara dair",
-    content: `Bir tanem,
+    title: "1 Sene 10 Ay ne kadar da hızlı geçti",
+    content: `Sevgilim,
 
-Hatırlıyor musun, ilk buluşmamızı? O gün ne kadar heyecanlıydım, ellerim titriyordu ama seni görünce her şey duruldu. Sanki yıllardır tanışıyormuşuz gibi rahat hissettim yanında.
+Koskoca 1 sene 10 ay nasıl da hızlıcak geçti. Onca uğraş onca olay ve savaş. Her şey bitti gitti. Şimdi dönüp bakınca gerçekten seninleyken zaman çok ama çok hızlı akıp geçiyor.
 
-O günden bu yana geçen her an, bir hazine gibi kalbimde saklı. Beraber güldüğümüz, ağladığımız, hayal kurduğumuz tüm anlar...
+Bazenleri diyorum ki hiç geçmesin hep böyle kalalım. Sonra farkediyorum ki seninle hayal ettiğim geleceği görmeden yapamam. Kutu gibi olan huzurlu ve sıcak yuvazmızı, biriktireceğimiz anıları,
+birlikte vereceğimiz savaşları ve yan yana durup büyüyüp yaşlanacağımız onca yılı hayal ediyorum. Bunların düşüncesi beni öyle bir motive ediyoru ki değil dağları delmeyi dünyayı delip geçebilirmişim gibi geliyor.
 
-Seninle izlediğimiz filmler, birlikte yediğimiz yemekler, saatlerce süren telefon konuşmalarımız... Her biri benim için paha biçilmez.
+Sadece seninle ilgili her şeye sabırsızım. Her şeyi birden istiyorum. Bu 1 sene 10 ayın içinde hapis kalmayı da, ölene kadar yanında durmayı da. Hayatımda geçirdiğim en güzel zamanları geçirdiğimi hissediyorum.
+Senin arkamda olduğunu biliyorum. Bu yolculukta ne olursa olun halledeceğimizi biliyorum. Bizim için uğraşmayı seviyorum. Hem seninle hem de diğer şeylerle...
 
-Ve en güzeli, daha yaşayacağımız nice anlar var. Seninle kuracağımız hayaller, gerçekleştireceğimiz planlar, birlikte büyüyeceğimiz yıllar...
-
-Geçmişimize şükrediyorum, geleceğimize heyecanla bakıyorum. Çünkü ikisi de seninle.
-
-Sonsuza dek seninleyim.`
+Gerçekçten ama gerçekten hayatıma girdiğin o bar köşesine teşekkür ederim. Bizi kavuşturan o ufak bara o aşağılık işletmeye sonsuz kere teşekkür ederim. İş çıkışında benimle büyükparkta oturduğun için teşekkür ederim. 
+Mo'da date'e çıktığımız için teşekkür ederim. Ve en önemlisi beni ektikten sonra sabaha karşı evimi bastığın için teşekkür ederim. Her biri paha biçilemez anılar. Sadece 2 senede yaşadıklarımız bile dile kolayken,
+önümüzdeki yılları merakla bekliyorum. İyi ki benimsin sevgilim...`
   },
   {
     id: 4,
     title: "Birlikte geçirdiğimiz zamanlara dair",
-    content: `Bir tanem,
+    content: `Tek mükemmel, inanılmaz ve haşmetli bebim,
 
-Hatırlıyor musun, ilk buluşmamızı? O gün ne kadar heyecanlıydım, ellerim titriyordu ama seni görünce her şey duruldu. Sanki yıllardır tanışıyormuşuz gibi rahat hissettim yanında.
+Seninle geçirdiğimiz zamanı düşündüğümde aklıma ilk gelen şey şu oluyor: Hayatımın bir dönemini değil, hayatımın bir hissini paylaşıyorum seninle. Çünkü sen sadece yanımda olan biri değil, yaşadığım anların kalitesini değiştiren birisin.
 
-O günden bu yana geçen her an, bir hazine gibi kalbimde saklı. Beraber güldüğümüz, ağladığımız, hayal kurduğumuz tüm anlar...
+Beraber güldüğümüz anlar var… Öyle kahkahalar ki, üzerinden zaman geçse de hatırladığımda yüzümde aynı sıcaklığı bırakıyor. Bazen hiçbir şey yapmadığımız, sadece yan yana durduğumuz zamanlar var. Sessizliğin bile huzurlu olduğu anlar.
+İşte o anlarda şunu fark ettim: Mutluluk büyük olaylarda değil, doğru insanla yaşanan sade anlarda saklı. 
 
-Seninle izlediğimiz filmler, birlikte yediğimiz yemekler, saatlerce süren telefon konuşmalarımız... Her biri benim için paha biçilmez.
+Sen bana sadece güzel anılar vermedin. Sabretmeyi, dinlemeyi, daha açık olmayı, daha derin hissetmeyi öğrettin. Birlikte büyüdük. Belki farkında bile olmadan birbirimizin hayatına iz bıraktık.
+Geçmişe dönüp baktığımda pişmanlık değil, şükür hissediyorum. Seninle yaşadığım her an için. Attığımız her adım için. Paylaştığımız her küçük detay için.
 
-Ve en güzeli, daha yaşayacağımız nice anlar var. Seninle kuracağımız hayaller, gerçekleştireceğimiz planlar, birlikte büyüyeceğimiz yıllar...
+Sabırla yanımda kalıp bana öğrettiğin ve yol gösterdiğin için her anımda yanımda olduğun için teşekkür ederim bebim. Seni tanıdığım her gün, yanımda olmayı seçtiğin her gün hayatım biraz daha anlam kazanıyor.
 
-Geçmişimize şükrediyorum, geleceğimize heyecanla bakıyorum. Çünkü ikisi de seninle.
-
-Sonsuza dek seninleyim.`
+Sonun kadar benim olacağını hissettirdiğin için teşekkür ederim. İyi ki varsın iyi ki benimsin bebim. Seni çok seviyorum...`
   },
 ];
 

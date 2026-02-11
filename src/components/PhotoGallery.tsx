@@ -1,4 +1,21 @@
-import photo1 from "../assets/photos/1.jpg";
+import photo1 from "../assets/photos/Aşkpirin.jpeg";
+import photo2 from "../assets/photos/EniyiAlisveris.jpeg";
+import photo3 from "../assets/photos/bakisinahastayim.jpeg";
+import photo4 from "../assets/photos/favorisideeye.jpeg";
+import photo5 from "../assets/photos/ensevdigimaktivite.jpeg";
+import photo6 from "../assets/photos/motorcubebi.jpeg";
+import photo7 from "../assets/photos/çokiyifoto.jpeg";
+import photo8 from "../assets/photos/askimuyuyor.jpeg";
+import photo9 from "../assets/photos/inanılmazgüzelfotoxl.jpeg";
+import photo10 from "../assets/photos/dugundernek.jpeg";
+import photo11 from "../assets/photos/bakisma2.jpeg";
+import photo12 from "../assets/photos/aksamgunesi.jpeg";
+import photo13 from "../assets/photos/resmentatlilikabidesi.jpeg";
+import photo14 from "../assets/photos/yudarım.jpeg";
+import photo15 from "../assets/photos/sarilmak.jpeg";
+import photo16 from "../assets/photos/günbatımı.jpeg";
+import photo17 from "../assets/photos/opucuk.jpeg";
+import photo18 from "../assets/photos/benimfavorim.jpeg";
 
 interface Photo {
   id: number;
@@ -7,12 +24,24 @@ interface Photo {
 }
 
 const photos: Photo[] = [
-  { id: 1, src: photo1, caption: "Birlikte güldüğümüz anlar" },
-  { id: 2, src: photo1, caption: "O muhteşem gün batımı" },
-  { id: 3, src: photo1, caption: "Sadece seninle güzel" },
-  { id: 4, src: photo1, caption: "Unutulmaz anılarımız" },
-  { id: 5, src: photo1, caption: "Sonsuza dek" },
-  { id: 6, src: photo1, caption: "Sen ve ben" },
+  { id: 1, src: photo1, caption: "Aşırı etkilendiğim o fotoğraf" },
+  { id: 2, src: photo2, caption: "O muhteşem alışverişimiz" },
+  { id: 3, src: photo3, caption: "Şu bakışın beni benden alıyor" },
+  { id: 4, src: photo4, caption: "Favori side eye'ım" },
+  { id: 5, src: photo5, caption: "En sevdiğim aktivite" },
+  { id: 6, src: photo6, caption: "Motorcu ve aşırı havalı bebi" },
+  { id: 7, src: photo7, caption: "Popişin açıkta olmasa dünyanın en iyi fotosu" },
+  { id: 8, src: photo8, caption: "Aşkım huzurla uyuyorsun" },
+  { id: 9, src: photo9, caption: "Düşüp durduğum inanılmaz güzel fotoğrafın XL" },
+  { id: 10, src: photo10, caption: "Ah şu bakışmalarımız" },
+  { id: 11, src: photo11, caption: "Bakışmalarımız hiç bitmesin nolur" },
+  { id: 12, src: photo12, caption: "Akşam güneşi güzele vururmuş" },
+  { id: 13, src: photo13, caption: "Resmen tatlılık abidesi" },
+  { id: 14, src: photo14, caption: "Gülüşüne bayılıyorum" },
+  { id: 15, src: photo15, caption: "Sana hep sarılmak istiyorum. Beni hep böyle bekle bebi" },
+  { id: 16, src: photo16, caption: "Yakalayabildiğim tek ve en güzel gün batımı" },
+  { id: 17, src: photo17, caption: "Bolca öpücük" },
+  { id: 18, src: photo18, caption: "Gelmiş geçmiş en havalı fotoğraf" },
 ];
 
 

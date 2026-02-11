@@ -8,7 +8,7 @@ const Index = () => {
   return (
     <main className="min-h-screen bg-background">
       <HeroSection />
-      <StorySection />
+  
       <PhotoGallery />
       <LettersSection />
       <ClosingSection />
