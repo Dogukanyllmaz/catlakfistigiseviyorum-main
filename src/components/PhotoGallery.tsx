@@ -32,7 +32,7 @@ const photos: Photo[] = [
   { id: 6, src: photo6, caption: "Motorcu ve aşırı havalı bebi" },
   { id: 7, src: photo7, caption: "Popişin açıkta olmasa dünyanın en iyi fotosu" },
   { id: 8, src: photo8, caption: "Aşkım huzurla uyuyorsun" },
-  { id: 9, src: photo9, caption: "Düşüp durduğum inanılmaz güzel fotoğrafın XL" },
+  //{ id: 9, src: photo9, caption: "Düşüp durduğum inanılmaz güzel fotoğrafın XL" },
   { id: 10, src: photo10, caption: "Ah şu bakışmalarımız" },
   { id: 11, src: photo11, caption: "Bakışmalarımız hiç bitmesin nolur" },
   { id: 12, src: photo12, caption: "Akşam güneşi güzele vururmuş" },
