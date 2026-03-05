@@ -31,7 +31,7 @@ const photos: Photo[] = [
   { id: 5, src: photo5, caption: "En sevdiğim aktivite" },
   { id: 6, src: photo6, caption: "Motorcu ve aşırı havalı bebi" },
   { id: 7, src: photo7, caption: "Popişin açıkta olmasa dünyanın en iyi fotosu" },
-  { id: 8, src: photo8, caption: "Aşkım huzurla uyuyorsun" },
+  //{ id: 8, src: photo8, caption: "Aşkım huzurla uyuyorsun" },
   { id: 9, src: photo9, caption: "Düşüp durduğum inanılmaz güzel fotoğrafın XL" },
   { id: 10, src: photo10, caption: "Ah şu bakışmalarımız" },
   { id: 11, src: photo11, caption: "Bakışmalarımız hiç bitmesin nolur" },
@@ -41,7 +41,7 @@ const photos: Photo[] = [
   { id: 15, src: photo15, caption: "Sana hep sarılmak istiyorum. Beni hep böyle bekle bebi" },
   { id: 16, src: photo16, caption: "Yakalayabildiğim tek ve en güzel gün batımı" },
   { id: 17, src: photo17, caption: "Bolca öpücük" },
-  { id: 18, src: photo18, caption: "Gelmiş geçmiş en havalı fotoğraf" },
+  { id: 8, src: photo18, caption: "Gelmiş geçmiş en havalı fotoğraf" },
 ];
 
 
