@@ -71,6 +71,21 @@ Sabırla yanımda kalıp bana öğrettiğin ve yol gösterdiğin için her anım
 
 Sonun kadar benim olacağını hissettirdiğin için teşekkür ederim. İyi ki varsın iyi ki benimsin bebim. Seni çok seviyorum...`
   },
+  {
+    id: 5,
+    title: "Sonsuza dek yanındayım",
+    content: `Bebi,
+
+Dün yazdığın sürpriz mektup içimi gerçekten sımsıcak yaptı. Seninle geçirdiğim  her an, her saniye benim için çok kıymetli bebi. Benim için düşündüğün, attığın her adım, yaptığın her küçük hareket bile o kadar değerli ki… Bunların hiçbirinin benim için karşılığı yok, hepsi benim için paha biçilemez.
+
+Yaşlanınca yanında olacağım diye kurduğum cümleler aslında sadece güzel sözler değil; hepsi kalbimden gelen, içten dileklerim. Gerçekten o günleri seninle görmek istiyorum. Hayatın getirdiği her anı, her zorluğu ve her mutluluğu seninle birlikte yaşamak istiyorum. Günlerin nasıl geçtiğini fark etmeden, yılları seninle paylaşarak ilerlemek istiyorum. Yanında olmak, elini tutmak ve hayatın her anında sana eşlik etmek benim en büyük isteğim.
+
+Sensiz geçen bir anı bile düşünmek bana garip geliyor. Çünkü sen artık hayatımın bir parçası değil, hayatımın kendisi gibisin. Varlığın bana huzur veriyor, yanında olmak bana güven veriyor. Seninle konuşmak, gülmek, hayal kurmak… Bunların hepsi benim için çok kıymetli.
+
+Bu hayatta karşıma çıkan en güzel şey sensin. Sanki bütün şansımı seni bulmak için kullanmışım gibi hissediyorum. Sen benim en değerli parçamsın. Hayatımın en anlamlı, en özel yerindesin. Seninle kurduğumuz bağın değerini her geçen gün daha da iyi anlıyorum.
+
+İyi ki varsın. İyi ki hayatımdasın. Ve iyi ki bu yolu seninle birlikte yürüyorum.`
+  },
 ];
 
 const LettersSection = () => {
